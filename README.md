@@ -12,14 +12,14 @@ Seeing as Google Reader is closing down at the end of this month, I've been look
 ## Limitations
 - No login feature. Secure it with a htpasswd or whatever you prefer
 - No cleanup of db
-- Only ATOM support
+- Only RSS support
 - Very limited feed management (CRUD and 1 level sections)
 
 ## Future updates
 - Login feature
 - Cleanup tasks
 - Better overall performances
-- ATOM support
+- Add ATOM support
 - Multi-user?
 - Security (currently dies when urls contain wrong data)
 - Import/Export of your feeds from google
