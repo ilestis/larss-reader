@@ -1,0 +1,16 @@
+.entry-main { position: relative; padding-bottom: 0.5em; zoom: 1; margin-bottom: 1.1em; border: 1px solid #eee; padding: 0.3em; }
+.entry-main { overflow: auto; zoom: 1; }
+.entry-container .entry-date { float: right; color: #666; text-decoration: none; font-size: 95%;}
+.entry-container .entry-title { font-size: 140% !important; margin: 0px; padding: 0px; line-height: 30px; }
+.entry:hover { border-left: 1px solid #4d90f0; }
+.entry-container .entry-body { font-size: 95%; }
+.read .entry-title { }
+.read .entry-title a { color: #555; }
+.brand { display: block; margin: 0px 0; font-size: 24.5px; }
+.entry-container, nav { font-family: 'Open Sans', sans-serif !important; }
+.nav li { vertical-align: bottom; }
+li a.section { padding-left: 2px; }
+li a.unread { font-weight: 700; }
+nav, .navigation { position: fixed; top: 0px; }
+header { margin-top: 10px; }
+header h3 { line-height: 20px; }
