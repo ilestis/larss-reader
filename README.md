@@ -1,9 +1,10 @@
 ## Larss - A Laravel RSS reader
 
-Seeing as Google Reader is closing down at the end of this month, I've been looking for a replacement to it that feet my needs. Having not being satisfied with what I found, and wanting to test out the Laravel framework, I decided to build this little ap. It is by no means a finished product, nor error prone! The main purpose was to try out Laravel with a real project.
+Seeing as Google Reader is closing down at the end of this month, I've been looking for a replacement to it that fits my needs. Having not being satisfied with what I found, and wanting to test out the Laravel framework, I decided to build this little app. It is by no means a finished product, nor error prone! The main purpose was to try out Laravel with a real project.
 
 ## Installation
 - Clone the git onto your computer or server.
+- $ composer install
 - Create a database with the sql/table_create.sql script
 - Set up a cron (I recommend every 2h to not miss any updates) for /rss/pull
 - Try it out!
